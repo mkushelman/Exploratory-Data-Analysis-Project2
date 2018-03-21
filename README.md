@@ -7,10 +7,10 @@ The [zip file with data](https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2FN
   1.  summarySCC_PM25.rds - _PM2.5 Emissions Data_   
   2.  Source_Classification_Code.rds - _Source Classification Code Table_  
 
-File \#| Short description
--------|---------------------------------------------------------------------
-1      | This file contains a data frame with all of the PM2.5 emissions data (for 1999, 2002, 2005, and 2008) measured in tons of PM2.5 emitted from a specific type of source. 
-2      | This file provides a mapping from the unique code of the source in the 1st file to the actual name of the PM2.5 source
+File \# | Short description
+--------|---------------------------------------------------------------------
+1       | This file contains a data frame with all of the PM2.5 emissions data (for 1999, 2002, 2005, and 2008) measured in tons of PM2.5 emitted from a specific type of source. 
+2       | This file provides a mapping from the unique code of the source in the 1st file to the actual name of the PM2.5 source
 
 Here is the columns description in the 1st file:
 
